@@ -14,15 +14,15 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>27BC02</p>
+      <p>University of Surrey</p>
+      <p>Guildford, Surrey GU2 7XH</p>
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>27BC02</p>
+      <p>University of Surrey</p>
+      <p>Guildford, Surrey GU2 7XH</p>
 ---
