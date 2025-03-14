@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-PhD Researcher | Skin Product Formulation Optimization | Machine Learning | Automation
+PhD Researcher|Formulation Optimization|AI| Automation
 
 I am a PhD researcher at the **University of Surrey**, specializing in **skin product formulation optimization**. My research focuses on **leveraging automated platforms and intelligent optimization methods** to accelerate formulation design. By integrating **automated formulation systems, machine learning models, and multi-objective optimization**, I aim to improve formulation efficiency, reduce experimental costs, and enhance personalized formulation development.
 
